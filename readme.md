@@ -1,5 +1,7 @@
+![Header](header.png)
 <h1 align="center">Hi 👋, I'm AXL</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from the United Kingdom</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axlalixx&label=Profile%20views&color=0e75b6&style=flat" alt="axlalixx" /> </p>
 
